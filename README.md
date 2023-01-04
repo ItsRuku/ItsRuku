@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ItsRuku
-- 👀 I’m interested in ... Web3, Tech, and Gaming
+- 👋 Hi, my name is Quincy aka @ItsRuku
+- 👀 I’m interested in ... Web3, Tech, and Ai
 - 🌱 I’m currently learning ... all the basics, starting with TOP
 - 💞️ I’m looking to collaborate on ... nothing as of yet, hopefully soon.
 - 📫 How to reach me ... emaculate5@protonmail.com
