@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Web3, Tech, and Ai
 - 🌱 I’m currently learning ... all the basics, starting with TOP
 - 💞️ I’m looking to collaborate on ... nothing as of yet, hopefully soon.
-- 📫 How to reach me ... emaculate5@protonmail.com
+- 📫 How to reach me ... https://twitter.com/packagesent
 
 <!---
 ItsRuku/ItsRuku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
